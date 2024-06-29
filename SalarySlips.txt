@@ -1,0 +1,8 @@
+Branch Name: CanBank Computer Services Limited
+Address: #218, I FLOOR, J.P. ROYALE, SAMPIGE ROAD, MALLESHWARAM, BANGALORE., , 560003
+Salary Slip for the month and year: Salary Slip for the month of February - 2023
+Next Month and Year: 2/2023
+----------------------------------------------------------------------------------------------------------------------------------------------
+Cu_Tr_Code	Cu_Tr_Month	Cu_Tr_Year	Cu_Tr_Payable	CuAndArr	ED_Desc	Cu_Tr_EmpNo	Emp_Name	Hrm_Desc	Dept	
+
+----------------------------------------------------------------------------------------------------------------------------------------------
